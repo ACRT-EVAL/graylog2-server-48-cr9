@@ -802,7 +802,7 @@
                     <dependency>
                         <groupId>de.skuzzle.enforcer</groupId>
                         <artifactId>restrict-imports-enforcer-rule</artifactId>
-                        <version>2.6.1</version>
+                        <version>3.0.2</version>
                         <scope>compile</scope>
                     </dependency>
                 </dependencies>
