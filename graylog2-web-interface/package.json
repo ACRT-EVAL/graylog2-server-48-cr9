@@ -169,7 +169,7 @@
     "trace-unhandled": "^2.0.1",
     "ts-node": "^10.2.1",
     "utility-types": "^3.10.0",
-    "webpack-bundle-analyzer": "^4.5.0",
+    "webpack-bundle-analyzer": "^5.4.0",
     "webpack-cli": "5.1.4",
     "webpack-dev-server": "^5.0.2",
     "webpack-merge": "^4.2.2",
